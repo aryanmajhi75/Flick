@@ -5,7 +5,7 @@ This app is a mini-project for the core subject of 4th trimester MCA.
 
 The structure of the project is as follows:
 
-main\
+main
 
 - app.py
 
