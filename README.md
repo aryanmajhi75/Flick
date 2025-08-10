@@ -36,7 +36,7 @@ The following are the steps:
 ```
 
 ```
-    python -m venv msenv
+    python3 -m venv msenv
 ```
 
 ```
